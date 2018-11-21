@@ -25,5 +25,4 @@ target_link_libraries(${PROJECT_NAME}
     ${SECP256K1_LIBRARIES}
     ${OPENSSL_LIBRARIES}
     )
-message("cmake source dir: "${PROJECT_SOURCE_DIR})
-message("strcodec source dir: "${strcodec_SOURCE_DIR})
+#message("cmake source dir: "${PROJECT_SOURCE_DIR})

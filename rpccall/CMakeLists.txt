@@ -19,5 +19,4 @@ target_include_directories(${PROJECT_NAME}
 
 target_link_libraries(${PROJECT_NAME}
     sub::scd)
-message("cmake source dir: "${PROJECT_SOURCE_DIR})
-message("strcodec source dir: "${strcodec_SOURCE_DIR})
+#message("cmake source dir: "${PROJECT_SOURCE_DIR})
